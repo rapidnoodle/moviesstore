@@ -31,5 +31,11 @@ https://teams.microsoft.com/l/meetingrecap?driveId=b%21dJ4XTPcrmEWvlXU21uqOfnsYI
 Rollback to SQLite & Complete process.txt:
 https://teams.microsoft.com/l/meetingrecap?driveId=b%21dJ4XTPcrmEWvlXU21uqOfnsYIWZCl5RGvxwV7v1ls-um3MFHQvYqQaqL_AAf7kR2&driveItemId=01BJCFW34GU5DAVHK3D5CILE2B6RPNWL45&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmmarsico3_gatech_edu%2FIQCGp0YKnVsfRIWTQfRe2y-dAUTMJuU4rqjAD0CN6zXM21E&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmmarsico3_gatech_edu%2FIQCGp0YKnVsfRIWTQfRe2y-dAUTMJuU4rqjAD0CN6zXM21E&threadId=19%3Ameeting_ZDc1MjRlMWItYzgyNS00NzMyLWI5ZGEtMDBhOWNhNTVhMDM0%40thread.v2&organizerId=e26738ed-8083-49cb-a0a7-ae4622cf18c6&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=70b851e1-a9ae-48bb-85e4-fe81f274529f&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
 
+Fix Cart Bug:
+https://teams.microsoft.com/l/meetingrecap?driveId=b%21dJ4XTPcrmEWvlXU21uqOfnsYIWZCl5RGvxwV7v1ls-um3MFHQvYqQaqL_AAf7kR2&driveItemId=01BJCFW33RSPENVMDPOVEKKCKUGY3MRKFY&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmmarsico3_gatech_edu%2FIQBxk8jasG91SKUJVDY2yKi4ATuXscZ8EaJq_9-PEbhC0U8&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmmarsico3_gatech_edu%2FIQBxk8jasG91SKUJVDY2yKi4ATuXscZ8EaJq_9-PEbhC0U8&threadId=19%3Ameeting_ZDc1MjRlMWItYzgyNS00NzMyLWI5ZGEtMDBhOWNhNTVhMDM0%40thread.v2&organizerId=e26738ed-8083-49cb-a0a7-ae4622cf18c6&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=3a0dadac-053f-4735-a6dd-cd246e920b28&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
+
+Fix Poster Stretching:
+
+
 Project Showcase:
-link_goes_here
+
